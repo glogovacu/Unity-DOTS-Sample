@@ -26,6 +26,15 @@
 # Visual Studio cache directory
 .vs/
 
+# Licenced Plugin
+/Assets/SimpleAudioManager/
+
+# Licenced Materials Meshes and Materials
+/Assets/LeartesStudios/
+
+# Licenced Sounds 
+/Assets/Audio/
+
 # Gradle cache directory
 .gradle/
 
@@ -70,3 +79,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/TextMesh Pro/Examples & Extras/Scenes
+/Assets/TextMesh Pro/Examples & Extras
